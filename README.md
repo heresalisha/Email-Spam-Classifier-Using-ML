@@ -6,7 +6,7 @@ In today's digital age, email communication plays a pivotal role in our personal
 
 Dealing with an overflowing inbox filled with spam can be both time-consuming and frustrating. Fortunately, machine learning and natural language processing techniques offer an effective solution to this problem.
 
-Our project, titled "Building an Email Spam Classifier," focuses on harnessing the power of machine learning to automatically categorize incoming emails as either "spam" or "ham" (legitimate) with high accuracy.
+My project, titled "Building an Email Spam Classifier," focuses on harnessing the power of machine learning to automatically categorize incoming emails as either "spam" or "ham" (legitimate) with high accuracy.
 
 This project demonstrates how machine learning and web development technologies can be harmoniously combined to tackle real-world challenges. The email spam classifier not only streamlines email management but also serves as an illustration of the power of artificial intelligence in enhancing our digital experiences.
 
